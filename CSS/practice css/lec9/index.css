@@ -1,0 +1,103 @@
+/* *{
+    color: orange;
+} */
+
+ 
+/* span{
+    color:rgb(39, 19, 213);
+}
+
+h3{
+    color: greenyellow;
+}
+
+a, li{
+    color: rgb(185, 112, 22);
+}
+
+.hello{
+    color: rgb(215, 11, 65);
+}
+
+.hello2{
+     background-color: red;
+}
+
+#aman{
+    color: pink;
+    background-color: yellow;
+}
+
+.rakhi{
+    color: bisque;
+}
+
+
+
+#bhavya{
+    color: brown;
+}
+
+h1{
+    color: aqua;
+} */
+
+/* div p{
+    color: blue;
+}  */
+
+/* div >p{
+    color: pink;
+} */
+
+/* a+p{
+color: chartreuse;
+
+} */
+ a ~ p{
+    color: red;
+ }
+
+ 
+ 
+#aman:hover{
+    background-color: brown;
+}
+
+/* li:hover{
+    color: blue;
+} */
+
+/* 
+li:first-child{
+    color: darkorange;
+} */
+
+/* 
+li:last-child{
+    color: darkorange;
+} */
+
+li:nth-child(2n+3){
+    color: cyan;
+}
+
+h1::after{
+    content: " ji";
+} 
+
+
+h1::first-letter{
+    color: chartreuse;
+} 
+/* 
+
+h1::before{
+    content: " Hii ";
+}
+  */
+
+h1::selection{
+color: rgb(10, 10, 10);
+  background-color: magenta;
+}
