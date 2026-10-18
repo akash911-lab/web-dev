@@ -4,23 +4,23 @@
     font-style: italic;
 }
 
-.singleProduct{
+.singleProduct {
     display: flex;
     flex-direction: column;
     width: 300px;
     height: 300px;
-    background-color: #d72b2b;
+    background-color: #ead397;
     justify-content: center;
-    /* align-items: center; */
     padding: 40px;
+    margin: 30px;
+    border: 1px solid red;
 }
 
-.singleProduct img{
+.singleProduct img {
     width: 70%;
-
 }
 
-.productDetail{
+.productDetail {
     display: flex;
     justify-content: space-around;
 }
